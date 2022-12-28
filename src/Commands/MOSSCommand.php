@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace MOSS\MOSS\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class MOSSCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'moss';
 
     public $description = 'My command';
 
