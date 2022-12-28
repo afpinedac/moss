@@ -2,9 +2,9 @@
 
 namespace MOSS\MOSS;
 
+use MOSS\MOSS\Commands\MOSSCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use MOSS\MOSS\Commands\MOSSCommand;
 
 class MOSSServiceProvider extends PackageServiceProvider
 {
